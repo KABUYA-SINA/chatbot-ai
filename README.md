@@ -71,7 +71,7 @@ chatbot-ai/
 │   └── knowledge_base.json
 │
 ├── logs/
-│   ├── __init__.py     
+│   ├── __init__.py   
 │   ├── logger.py   
 │   └── chat_history.py 
 │
@@ -235,7 +235,10 @@ pytest
 # 👨‍💻 Author
 
 GitHub: [github.com/KABUYA-SINA](https://github.com/KABUYA-SINA)
+
+```
 Project : Educational chatbot system for learning architecture & AI fundamentals
+```
 
 ---
 
